@@ -5,20 +5,14 @@
    ![React Badge](https://img.shields.io/badge/-React.js-7bdcfe)
 </div>
 
-<h3 align="center">
-    <i>This repository is for learn purpose. It has a simple reactJS application that help people find github repositories</i>
-</h3>
+*This repository is for learn purpose. It has a simple reactJS application that help people find github repositories*
 
 <p align="center" style="margin-top: 30px;">
     <img src=".github/demo.gif">
 </p>
 
 ## 🚀 Getting Started
-
 Go to the frontend folder and run the following commands to start the web application
-
-<br />
-
 ### 📥 Installing dependencies
 
 Inside de project's folder, run:
@@ -26,7 +20,6 @@ Inside de project's folder, run:
 ```
 yarn
 ```
-<br />
 
 ### 🏎 Running application
 ```
