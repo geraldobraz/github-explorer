@@ -5,7 +5,7 @@
    ![React Badge](https://img.shields.io/badge/-React.js-7bdcfe)
 </div>
 
-*This repository is for learn purpose. It has a simple reactJS application that help people find github repositories*
+*This repository is for learning purpose. It has a simple reactJS application that helps people find github repositories using the github API.*
 
 <p align="center" style="margin-top: 30px;">
     <img src=".github/demo.gif">
