@@ -107,6 +107,6 @@ export const Repositories = styled.div`
 
 export const Error = styled.span`
   display: block;
-  color: #912523;
+  color: #c53030;
   margin-top: 8px;
 `;
